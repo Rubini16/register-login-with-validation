@@ -1,0 +1,15 @@
+.heading {
+  margin: 1rem 0rem;
+}
+.formSection {
+  margin: auto;
+}
+.registerForm {
+  border: 1px solid black;
+  border-radius: 2rem;
+}
+@media (max-width: 576px) {
+  .registerForm {
+    border: none;
+  }
+}
